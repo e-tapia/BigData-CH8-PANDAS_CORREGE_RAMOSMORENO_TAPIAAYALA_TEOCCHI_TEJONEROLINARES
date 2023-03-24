@@ -2,7 +2,7 @@
 ## Hands on Data Analysis with Pandas
 #### Presentation and material about CH8 Hands on Data Analysis with Pandas UPEC 2023
 _Problematic, Solution, Evaluation & Feedback_
->Member's team: 
+>Team's members: 
 >- **CORREGE**, Nicole
 >- **RAMOS MORENO**, Lydia
 >- **TAPIA AYALA**, Emilio Israel
