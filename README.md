@@ -1,7 +1,7 @@
 # Big Data CH8 - UPEC 2023
-## PANDAS_CORREGE_RAMOSMORENO_TAPIAAYALA_TEOCCHI_TEJONEROLINARES
+## Hands on Data Analysis with Pandas
 #### Presentation and material about CH8 Hands on Data Analysis with Pandas UPEC 2023
-
+_Problematic, Solution, Evaluation & Feedback_
 >Member team's: 
 >- **CORREGE**, Nicole
 >- **RAMOS MORENO**, Lydia
