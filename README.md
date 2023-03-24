@@ -2,13 +2,8 @@
 Presentation and material about CH8 Hands on Data Analysis with Pandas UPEC 2023
 
 Member team's: 
-
-CORREGE, Nicole
-
-RAMOS MORENO, Lydia
-
-TAPIA AYALA, Emilio Israel
-
-TEOCCHI, Alice
-
-TEJONERO LINARES, Elena
+- CORREGE, Nicole
+- RAMOS MORENO, Lydia
+- TAPIA AYALA, Emilio Israel
+- TEOCCHI, Alice
+- TEJONERO LINARES, Elena
